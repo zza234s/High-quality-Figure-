@@ -338,11 +338,6 @@ https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfei
 
 
 
-《FedGSL》 FL群的傅兴博
-
-![image-20230617102350514](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230617102350514.png)
-
-
 
 
 
