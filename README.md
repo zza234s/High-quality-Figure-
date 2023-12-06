@@ -2,7 +2,7 @@
 
 《LEARNING MLPS ON GRAPHS: A UNIFIED VIEW OF EFFECTIVENESS, ROBUSTNESS, AND EFFICIENCY》
 
-![image-20231003152709806](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231003152709806.png)
+![image-20231003152709806](https://github.com/zza234s/High-quality-Figure-/tree/main/typora-user-images)
 
 
 
