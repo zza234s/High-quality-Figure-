@@ -271,6 +271,42 @@ https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfei
 
 ![image-20231010212457043](typora-user-images/image-20231010212457043.png)
 
+## SparseVFL: Communication-Efficient Vertical Federated Learning Based on Sparsification of Embeddings and Gradients
+
+![image-20231211164948343](typora-user-images/image-20231211164948343.png)
+
+
+
+## Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks
+
+![image-20231211164010408](typora-user-images/image-20231211164010408.png)
+
+
+
+
+
+
+
+## GTV: Generating Tabular Data via Vertical Federated Learning
+
+![image-20231211165319817](typora-user-images/image-20231211165319817.png)
+
+
+
+## GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data
+
+![image-20231211165553608](typora-user-images/image-20231211165553608.png)
+
+
+
+## FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning
+
+![image-20231211170108848](typora-user-images/image-20231211170108848.png)
+
+
+
+
+
 # 好看的表格
 
 ![image-20230213112406528](typora-user-images/image-20230213112406528.png)
